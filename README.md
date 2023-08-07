@@ -9,4 +9,4 @@ List:
 additional:
 - Personal website (react or github site)
 - Old (Flash) game website
-- refactor and finishing Cash-In, Tiketin, and Raamen (branch)
+- refactor and finishing [Cash-In](https://github.com/DTA32/cash-in), [Tiketin](https://github.com/DTA32/airline-v1), and [Raamen](https://github.com/MaulanaAhmadSulami/Raamen)
